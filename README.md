@@ -6,6 +6,9 @@ Prerequisites
 Before running the application, ensure you have the following installed:
 
 Java Development Kit (JDK) 8 or higher
+
 Maven
+
 MySQL Server
-Installation
+
+
